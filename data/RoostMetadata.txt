@@ -1,0 +1,19 @@
+Datasets that contributed to this download
+------------------------------------------
+
+Title: Roost Count
+
+Dataset key: GA000616
+
+Description: Surveyors count numbers of bats emerging from summer roosts at sunset on two evenings during the survey period. Surveyors choose their own roosts. A small number of counts are internal roost counts carried out under licence.
+
+Dataset owner: The Bat Conservation Trust
+
+Public access to this data is:
+    Resolution: 1km
+    View attributes: false
+
+Use constraints: None
+
+Access constraints: Access to this dataset is restricted for the following reasons:
+Some of the information held within this dataset relates to species that are vulnerable to human disturbance or prejudice, and sites that are privately owned including dwelling houses. At this time the data provider believes that full disclosure to the public may lead to environmental harm or may compromise the privacy of property owners. This sensitive information may be made available in response to enhanced access requests where there is a clear need for more detailed information. Wider release would adversely affect the free flow of volunteered information from third parties for those that need to know for land use planning and conservation.
